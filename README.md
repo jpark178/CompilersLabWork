@@ -1,2 +1,7 @@
-# CompilersLabWork
-UCR CS152 - Compilers LABWORK for Spring 2020
+CS152 LABS
+
+FAZE JUAN : FLEX
+
+FAZE DOO : BISON
+
+FAZE DUHREE : ...
