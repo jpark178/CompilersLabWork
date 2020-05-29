@@ -1,7 +1,1 @@
-CS152 LABS
-
-FAZE JUAN : FLEX
-
-FAZE DOO : BISON
-
-FAZE DUHREE : ...
+UCR CS152 - Compilers (Spring 2020) Lab Work
